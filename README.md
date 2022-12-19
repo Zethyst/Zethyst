@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Akshat Jaiswal</h1>
-<h3 align="center">Nocturnal Coder</h3>
+<div id="header" align="center"> 
+   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="200"/> 
+ </div> 
+ <h1 align="center">✨ Akshat Jaiswal ✨</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zethyst&label=Profile%20views&color=0e75b6&style=flat" alt="zethyst" /> </p>
+<h3 align="center"><I>Nocturnal Coder</I></h3>
 
-- 🌱 I’m currently learning **Python, Ruby, Android**
+<p align="left"> 
+  
 
-- 💬 Ask me about **C, C++, Java, HTML**
+</p>
 
-- 📫 How to reach me **Zethyst@protonmail.com**
+<h2 align="left">About Me:</h2>
+ <p aligh="center"><I>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p>
 
-<h3 align="left">Connect with me:</h3>
+-  🌱 I’m currently learning **Python, Ruby, Android**
+
+-  📨 How to reach me - <b>Click on any of my socials </b>
+
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/_thecoldsmoker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_thecoldsmoker_" height="30" width="40" /></a>
 <a href="https://instagram.com/_cold.light_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cold.light_" height="30" width="40" /></a>
