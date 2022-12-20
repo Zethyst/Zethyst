@@ -19,23 +19,33 @@
 <h3 align="left">Connect with me:</h3>
   <div id="badges" align="center"> 
   
-  <a href="https://www.linkedin.com/in/akshat-jaiswal-4664a2197" target="_blank"> 
+  <a href=" https://www.linkedin.com/in/akshat-jaiswal-4664a2197" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a> 
+  <a href="https://www.facebook.com/ekansh.jaiswal.796" target="_blank"> 
+  <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> 
+  </a> 
+  <a href="https://wa.link/y7e6yz" target="_blank"> 
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp Badge"/> 
+</a>
+<a href="https://www.instagram.com/scyp77/" target="_blank"> 
+<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/> 
+</a>
  <a href="https://twitter.com/_TheColdSmoker_" target="_blank"> 
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/> 
   </a> 
-  <a href="https://www.instagram.com/scyp77/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/> 
- </a> 
- 
+
+  <a href="https://t.snapchat.com/Av5lUfEK" target="_blank"> 
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/> 
+  </a> 
 
 <h3 align="left">Tech Stack:</h3>
  <div id="badges-2" align="center"> 
-   <img src="https://img.icons8.com/color/48/FA5252/c-programming.png"/> 
+    <img src="https://img.icons8.com/color/48/FA5252/c-programming.png"/> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language"/> 
     <img src="https://img.icons8.com/color/48/000000/my-sql.png"/> 
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
