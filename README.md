@@ -17,6 +17,7 @@
 -  📨 How to reach me - <b>Click on any of my contacts below </b>
 
 <h3 align="left">📌 Contact Me:</h3>
+ <br>
   <div id="badges" align="center"> 
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=21052646@kiit.ac.in&su=SUBJECT&body=BODY" target="_blank">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -30,8 +31,10 @@
 </a>
   
   </div>
+   <br>
   
 <h3 align="left">📌 My Socials:</h3>
+ <br>
   <div id="badges" align="center"> 
   
   <a href=" https://www.linkedin.com/in/akshat-jaiswal-4664a2197" target="_blank"> 
@@ -55,8 +58,10 @@
   <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/> 
   </a> 
   </div>
+   <br>
 
 <h3 align="left">📌 I specialize in the following programming languages:</h3>
+ <br>
  <div id="badges-2" align="center"> 
      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c-programming" /> 
      <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -67,8 +72,10 @@
      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
       </div> 
+       <br>
       
 <h3 align="left">📌 Other Tech Stack:</h3>
+ <br>
   <div id="badges-3" align="center"> 
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
     <!-- <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
@@ -83,20 +90,24 @@
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </div> 
+     <br>
     
    <h3 align = "left" >📌 Funding:</h3>
+   <br>
     <div align="center">
         <a href="https://www.buymeacoffee.com/zethystN">
         <img src ="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://www.paypal.me/Zethyst">
         <img src ="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </a>
         <a href="https://p.paytm.me/xCTH/j01643qh">
             <img src ="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3" />
         </a>
     </div>
+     <br>
 <h3 align="left">📌 My Github Stats:</h3>
+ <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zethyst&show_icons=true&theme=tokyonight" alt="zethyst" /></p>
 <br><br><br><br><br><br><br><br><br><br><br>
 
