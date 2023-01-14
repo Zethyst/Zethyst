@@ -5,10 +5,6 @@
 
 <h3 align="center"><I>Nocturnal Coder</I></h3>
 
-
-  
- </div> 
-
 <h3 align="left">📌 About Me:</h3>
  <p aligh="center"><I>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p>
 
