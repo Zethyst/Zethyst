@@ -6,7 +6,7 @@
 <h3 align="center"><I>Nocturnal Coder</I></h3>
 
 <h3 align="left">📌 About Me:</h3>
- <p align="center"><I>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p>
+ <p><I>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p>
 
 -  🌱 I’m currently learning **Python, Ruby, Android**
 
