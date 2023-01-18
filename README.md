@@ -6,12 +6,13 @@
 <h3 align="center"><I>Nocturnal Coder</I></h3>
 
 <h3 align="left">📌 About Me:</h3>
- <p><I>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p>
+<dl>
+ <p><I><dt>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p></dt>
 
--  🌱 I’m currently learning **Python, Ruby, Android**
+-  <dd>🌱 I’m currently learning **Python, Ruby, Android**</dd>
 
--  📨 How to reach me - <b>Click on any of my contacts below </b>
-
+-  <dd>📨 How to reach me - <b>Click on any of my contacts below </b></dd>
+</dl>
 <h3 align="left">📌 Contact Me:</h3>
  <br>
   <div id="badges" align="center"> 
