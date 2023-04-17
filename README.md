@@ -125,7 +125,5 @@
  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zethyst&show_icons=true&theme=tokyonight" alt="zethyst" /></p>
 <br><br><br><br><br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zethyst&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zethyst" /></p>
 <br>
 <br>
