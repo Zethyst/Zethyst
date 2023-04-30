@@ -34,24 +34,24 @@
  <br>
   <div id="badges" align="center"> 
   
-  <a href="https://www.linkedin.com/in/akshat-jaiswal-4664a2197" target="_blank"> 
+  <a href="https://www.linkedin.com/in/akshat-jaiswal-4664a2197"  target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a> 
-  <a href="https://www.facebook.com/ekansh.jaiswal.796" target="_blank"> 
+  <a href="https://www.facebook.com/ekansh.jaiswal.796"  target="_blank"> 
   <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> 
   </a> 
 <a href="https://open.spotify.com/user/3162o3m2gbzmrc2aa3zprrc6fpny" target="_blank">
     <img src ="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
     alt="Spotify Badge" />
   </a>
-<a href="https://www.instagram.com/scyp77/" target="_blank"> 
+<a href="https://www.instagram.com/scyp77/"  target="blank"> 
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> 
 </a>
- <a href="https://twitter.com/_TheColdSmoker_" target="_blank"> 
+ <a href="https://twitter.com/_TheColdSmoker_"  target="_blank"> 
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/> 
   </a> 
 
-  <a href="https://t.snapchat.com/Av5lUfEK" target="_blank"> 
+  <a href="https://t.snapchat.com/Av5lUfEK"  target="_blank"> 
   <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/> 
   </a> 
   </div>
@@ -92,7 +92,7 @@
  <br>
   <div id="badges-3" align="center"> 
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-    <!-- <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
+    <!-- <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white" />  -->
     <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src = "https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />
