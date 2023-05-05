@@ -11,7 +11,7 @@
 
 -  <dd>🌱 I’m currently learning **Python, Ruby, Android**</dd>
 
--  <dd>📨 How to reach me - <b>Click on any of my contacts below </b></dd>
+-  <dd>📨 How to reach me - <b><strong>Click on any of my contacts below<strong></b></dd>
 </dl>
 <h3 align="left">📌 Contact Me:</h3>
  <br>
