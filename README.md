@@ -3,13 +3,13 @@
  </div> 
  <h1 align="center">✨ Akshat Jaiswal ✨</h1>
 
-<h3 align="center"><I>Nocturnal Coder</I></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=5000&pause=1000&color=F7F1D9&center=true&vCenter=true&width=980&height=35&lines=A+Student+of+Computer+Science+and+Engineering" alt="Typing SVG" /></a>
 
 <h3 align="left">📌 About Me:</h3>
 <dl>
  <p><I><dt>💻 Undergrad - B.Tech. in Computer Science & Engineering from KIIT University</I></p></dt>
 
--  <dd>🌱 I’m currently learning **Python, Ruby, Android**</dd>
+-  <dd>🌱 I’m currently learning <b>Python, PHP</b></dd>
 
 -  <dd>📨 How to reach me - <b><strong>Click on any of my contacts below<strong></b></dd>
 </dl>
