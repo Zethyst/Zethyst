@@ -85,18 +85,22 @@
   </a>
       <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <a href="https://github.com/Zethyst/Shell-Scripting">
      <img src = "https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
- </a>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-      </div> 
+  </a>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ 
+ </div> 
        <br>
        <h3 align="left">📌 Frameworks and Libraries:</h3>
        <div id="badges-4" align="center">
              <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
               <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
              <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-       </div>
+             <img src = "https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=express&logoColor=black" />
+        
+   </div>
        <h3 align="left">📌 Databases and Cloud Hosting:</h3>
        <div id="badges-5" align="center">
   <br>
@@ -117,8 +121,9 @@
     <img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img src = "https://img.shields.io/badge/adobe%20photoshop-%23040c3c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src = "https://img.shields.io/badge/docker-2864d4.svg?style=for-the-badge&logo=docker&logoColor=2894ec" />
+   <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+   <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </div> 
      <br>
     
