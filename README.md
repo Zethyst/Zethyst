@@ -97,8 +97,9 @@
        <h3 align="left">📌 Frameworks and Libraries:</h3>
        <div id="badges-4" align="center">
              <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-              <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-             <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+              <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
+             <img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
              <img src = "https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge&logo=express&logoColor=black" />
         
    </div>
@@ -123,6 +124,7 @@
     <img src = "https://img.shields.io/badge/adobe%20photoshop-%23040c3c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src = "https://img.shields.io/badge/docker-2864d4.svg?style=for-the-badge&logo=docker&logoColor=2894ec" />
+    <img src = "https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=61DAFB" />
    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
    <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </div> 
