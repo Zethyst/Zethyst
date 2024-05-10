@@ -125,9 +125,6 @@
  <br>
   <div id="badges-3" align="center"> 
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-    <img src = "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img src = "https://img.shields.io/badge/adobe%20photoshop-%23040c3c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src = "https://img.shields.io/badge/GraphQL-E6007A?style=for-the-badge&logo=graphql&logoColor=000" />
