@@ -124,8 +124,6 @@
 <h3 align="left">📌 Other Tech Stack:</h3>
  <br>
   <div id="badges-3" align="center"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-    <img src = "https://img.shields.io/badge/adobe%20photoshop-%23040c3c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src = "https://img.shields.io/badge/GraphQL-E6007A?style=for-the-badge&logo=graphql&logoColor=000" />
    <img src = "https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=61DAFB" />
