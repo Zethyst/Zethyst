@@ -109,6 +109,7 @@
        <div id="badges-5" align="center">
   <br>
              <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+                    <img src = "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
             <img src = "https://img.shields.io/badge/docker-2864d4.svg?style=for-the-badge&logo=docker&logoColor=2894ec" />
             <img src = "https://img.shields.io/badge/kubernetes-white.svg?style=for-the-badge&logo=kubernetes&logoColor=2894ec" />
              <img src = "https://img.shields.io/badge/Firebase-FF7139?style=for-the-badge&logo=Firebase&logoColor=white" />
@@ -129,7 +130,8 @@
     <img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img src = "https://img.shields.io/badge/adobe%20photoshop-%23040c3c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
     <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img src = "https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=61DAFB" />
+    <img src = "https://img.shields.io/badge/GraphQL-E6007A?style=for-the-badge&logo=graphql&logoColor=000" />
+   <img src = "https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=61DAFB" />
    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
    <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </div> 
