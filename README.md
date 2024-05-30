@@ -109,11 +109,11 @@
        <div id="badges-5" align="center">
   <br>
              <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-                    <img src = "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+              <img src = "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+             <img src = "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
             <img src = "https://img.shields.io/badge/docker-2864d4.svg?style=for-the-badge&logo=docker&logoColor=2894ec" />
             <img src = "https://img.shields.io/badge/kubernetes-white.svg?style=for-the-badge&logo=kubernetes&logoColor=2894ec" />
              <img src = "https://img.shields.io/badge/Firebase-FF7139?style=for-the-badge&logo=Firebase&logoColor=white" />
-             <img src = "https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />
              <img src = "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
              <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
              <img src = "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
